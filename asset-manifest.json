@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aperturesight.github.io/csb-qcr20y/static/css/main.36fa7489.chunk.css",
+    "main.js": "https://aperturesight.github.io/csb-qcr20y/static/js/main.454e877d.chunk.js",
+    "main.js.map": "https://aperturesight.github.io/csb-qcr20y/static/js/main.454e877d.chunk.js.map",
+    "runtime-main.js": "https://aperturesight.github.io/csb-qcr20y/static/js/runtime-main.f790d34b.js",
+    "runtime-main.js.map": "https://aperturesight.github.io/csb-qcr20y/static/js/runtime-main.f790d34b.js.map",
+    "static/js/2.43e24fe7.chunk.js": "https://aperturesight.github.io/csb-qcr20y/static/js/2.43e24fe7.chunk.js",
+    "static/js/2.43e24fe7.chunk.js.map": "https://aperturesight.github.io/csb-qcr20y/static/js/2.43e24fe7.chunk.js.map",
+    "index.html": "https://aperturesight.github.io/csb-qcr20y/index.html",
+    "static/css/main.36fa7489.chunk.css.map": "https://aperturesight.github.io/csb-qcr20y/static/css/main.36fa7489.chunk.css.map",
+    "static/js/2.43e24fe7.chunk.js.LICENSE.txt": "https://aperturesight.github.io/csb-qcr20y/static/js/2.43e24fe7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f790d34b.js",
+    "static/js/2.43e24fe7.chunk.js",
+    "static/css/main.36fa7489.chunk.css",
+    "static/js/main.454e877d.chunk.js"
+  ]
+}
